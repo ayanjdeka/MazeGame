@@ -1,0 +1,2 @@
+# MazeGame
+A MazeGame that utilizes many different components. First, many different libraries from Java are used such as JavaFx and Java.awt libraries to implement the graphics, interface, and event listeners. The maze is constructed from an input file, where spaces are places where you can travel, #'s are the walls to the maze, and other characters are components such as traps or travel portals that enhance the game experience.
